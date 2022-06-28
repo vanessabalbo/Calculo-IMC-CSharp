@@ -1,0 +1,11 @@
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.FormIMC.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\vanessa.balbo\OneDrive - SENAC - SP\Vanessa Balbo\UC-12\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
