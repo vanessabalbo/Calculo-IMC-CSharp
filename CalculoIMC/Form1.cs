@@ -35,7 +35,7 @@ namespace CalculoIMC
             {
                 resultado = (v1 / (v2 * v2));
             }
-            txtIMC.Text = resultado.ToString();
+            txtIMC.Text = Math.Round(resultado, 2).ToString();
             if (resultado <= 18.5)
             {
                 lblResultado.Text = ("Abaixo do peso").ToString();
