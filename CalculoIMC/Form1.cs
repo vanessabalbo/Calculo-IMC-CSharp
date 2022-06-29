@@ -19,9 +19,11 @@ namespace CalculoIMC
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            // Variáveis para armazenar os valores do cálculo:
             double v1 = 0;
             double v2 = 0;
             double resultado = 0;
+            // Verificação de campos "em branco":
             if (txtPeso.Text != "" && txtAltura.Text != "")
             {
                 v1 = double.Parse(txtPeso.Text);
@@ -31,6 +33,7 @@ namespace CalculoIMC
             {
                 MessageBox.Show("Preencha todos os campos!");
             }
+            // Cálculo será
             if (v2 != 0)
             {
                 resultado = (v1 / (v2 * v2));
