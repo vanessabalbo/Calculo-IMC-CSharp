@@ -33,40 +33,41 @@ namespace CalculoIMC
             {
                 MessageBox.Show("Preencha todos os campos!");
             }
-            // Cálculo será
             if (v2 != 0)
             {
                 resultado = (v1 / (v2 * v2));
             }
+            // Aplicação de comando para definir casas decimais:
             txtIMC.Text = Math.Round(resultado, 2).ToString();
+            // Calcular IMC e exibir as informações:
             if (resultado <= 18.5)
             {
-                lblResultado.Text = ("Abaixo do peso").ToString();
+                lblResultado.Text = ("Abaixo do peso");
                 lblResultado.ForeColor = Color.Red;
             }
             else if (resultado >= 18.6 && resultado <= 24.90)
             {
-                lblResultado.Text = ("Peso ideal, PARABÉNS!").ToString();
+                lblResultado.Text = ("Peso ideal, PARABÉNS!");
                 lblResultado.ForeColor = Color.Green;
             }
             else if (resultado >= 25 && resultado <= 29.9)
             {
-                lblResultado.Text = ("Levemente acima do peso").ToString();
+                lblResultado.Text = ("Levemente acima do peso");
                 lblResultado.ForeColor = Color.OrangeRed;
             }
             else if (resultado >= 30 && resultado <= 34.9)
             {
-                lblResultado.Text = ("Obesidade grau I").ToString();
+                lblResultado.Text = ("Obesidade grau I");
                 lblResultado.ForeColor = Color.Red;
             }
             else if (resultado >= 35 && resultado >= 39.9)
             {
-                lblResultado.Text = ("Obesidade grau II").ToString();
+                lblResultado.Text = ("Obesidade grau II");
                 lblResultado.ForeColor = Color.Red;
             }
             else if (resultado >= 40)
             {             
-                lblResultado.Text = ("Obesidade III (mórbida)").ToString();
+                lblResultado.Text = ("Obesidade III (mórbida)");
                 lblResultado.ForeColor = Color.Red;
             }
         }
